@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path=".gitignore" />
+    <File Path="FUNCTIONS.md" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ExpenseAnalytics.ConsoleApp/ExpenseAnalytics.ConsoleApp.csproj" />
+  <Project Path="ExpenseAnalytics.Core/ExpenseAnalytics.Core.csproj" />
+</Solution>
